@@ -22,8 +22,6 @@ This investigation checks prescription records for issues that can impact clinic
     Main notebook for data profiling, rule-based checks, severity classification, and findings.
   - `code/Prescription Data Analysis and Quality Assessment.docx`  
     Written report of analysis and conclusions.
-  - `Ahmad_Task2_Fix_Your_Own_Work.docx`  
-    Supporting Task 2 submission document.
 
 ## Key outcomes
 
@@ -43,7 +41,3 @@ The Task 2 analysis identifies high-impact data quality risks and provides actio
 - Seaborn / Matplotlib for visual analysis
 - Word documents for reporting
 
-## Why this matters
-
-In healthcare systems, data quality directly affects treatment safety.  
-Task 2 demonstrates a practical framework for auditing prescription data and converting findings into concrete data governance and validation controls.

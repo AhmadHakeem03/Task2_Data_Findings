@@ -38,6 +38,5 @@ The Task 2 analysis identifies high-impact data quality risks and provides actio
 
 - Python (Jupyter Notebook)
 - Pandas / NumPy for data processing
-- Seaborn / Matplotlib for visual analysis
 - Word documents for reporting
 
